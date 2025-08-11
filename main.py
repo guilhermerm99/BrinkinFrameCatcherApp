@@ -12,7 +12,7 @@ from video_processor import extract_frames
 # --- Constantes de Configuração ---
 class AppConfig:
     DEFAULT_INTERVAL = 1
-    WINDOW_TITLE = "Brinkin Frame Catcher v2.7" # Nova versão
+    WINDOW_TITLE = "Brinkin Frame Catcher"
     ICON_PATH = "assets/icone.ico"
     LOADING_GIF_PATH = "assets/loading.gif"
 
