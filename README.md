@@ -2,7 +2,7 @@
 
 Um aplicativo de desktop simples e eficiente para extrair frames de vídeos com precisão.
 
-![Screenshot da Aplicação](https://drive.google.com/file/d/1yfbejOZK1rVkQIwvJpr06fgWY0FUaEEn/view?usp=sharing) 
+![Screenshot da Aplicação](assets/screenshot.png) 
 ## ✨ Funcionalidades
 
 * **Extração por Intervalo Fixo:** Capture um frame a cada `X` segundos.
