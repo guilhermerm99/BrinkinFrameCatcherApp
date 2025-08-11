@@ -33,6 +33,16 @@ Um aplicativo de desktop simples e eficiente para extrair frames de vídeos com 
 * **Pillow (PIL):** Para manipulação de imagens (thumbnails).
 * **PyInstaller:** Para a criação do executável.
 
+## ⚠️ Nota sobre o Windows Defender
+
+Ao executar o arquivo `.exe` pela primeira vez, o Windows Defender SmartScreen pode exibir um aviso de segurança. Isso é um comportamento normal para aplicativos de novos desenvolvedores.
+
+Para executar o programa, siga estes passos:
+1. Na tela azul, clique em **"Mais informações"**.
+2. Em seguida, clique em **"Executar assim mesmo"**.
+
+Isso não será mais necessário nas próximas vezes que você abrir o aplicativo.
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
