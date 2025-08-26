@@ -15,7 +15,7 @@ Um aplicativo de desktop simples e eficiente para extrair frames de vídeos com 
 ## 🚀 Como Usar
 
 ### Para Usuários
-1.  Vá para a [página de Releases](https://github.com/guilhermerm99/FrameCatcherApp).
+1.  Vá para a [página de Releases](https://github.com/guilhermerm99/BrinkinFrameCatcherApp/releases/tag/v1.0.0).
 2.  Baixe o arquivo `.zip` da versão mais recente (ex: `FrameCatcher_v1.0.0.zip`).
 3.  Extraia o arquivo e execute o `FrameCatcher.exe`.
 
